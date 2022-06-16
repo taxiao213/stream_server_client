@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VisionServer</string>
+
+    <string name="ntp_service_action" translatable="false">vl.vision.app.service.action</string>
+    <string name="ntp_service_package" translatable="false">vl.vision.app</string>
+</resources>
